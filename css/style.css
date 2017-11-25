@@ -1,0 +1,11 @@
+body {
+  margin-top: 60px;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+.jumbotron {
+  background-image: linear-gradient( 135deg, #4169e1 0%, #360943 100%);
+}
